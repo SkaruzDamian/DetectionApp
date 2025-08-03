@@ -1,0 +1,23 @@
+{
+  "video_name": "vid_1",
+  "total_frames": 238,
+  "duration_seconds": 7.933333333333334,
+  "analysis_timestamp": "2025-08-03T19:59:02.311928",
+  "foot_strike_stats": {
+    "left_heel_percentage": 31.932773109243694,
+    "left_midfoot_percentage": 65.96638655462185,
+    "left_forefoot_percentage": 2.100840336134454,
+    "right_heel_percentage": 40.7563025210084,
+    "right_midfoot_percentage": 57.14285714285714,
+    "right_forefoot_percentage": 2.100840336134454
+  },
+  "posture_stats": {
+    "avg_forward_lean": 22.19181224340382,
+    "max_forward_lean": 45.0,
+    "min_forward_lean": 0.25250763054424097,
+    "avg_head_forward": 45.0,
+    "max_head_forward": 45.0,
+    "min_head_forward": 45.0,
+    "lean_stability": 18.673904548374544
+  }
+}
